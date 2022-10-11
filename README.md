@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **Data analysis projects**
 
-- 🌱 I’m currently learning **SQL and Power BI**
+- 🌱 I’m currently learning **Advanced Power BI**
 
 - 📫 How to reach me **omarkorim3210@gmail.com**
-
-- 📄 Know about my experiences [Still working to update it](Still working to update it)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
