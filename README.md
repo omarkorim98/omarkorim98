@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar Korim</h1>
-<h3 align="center">A Curious learner Data Analyst Engineer from Egypt</h3>
+<h3 align="center">A Curious learner Data Analyst - Digital Analyst - Analytics Implementation Engineer - Data Science Trainer</h3>
 
-- 🔭 I’m currently working on **Data analysis projects**
+- 🔭 I’m currently working on **Data Science projects**
 
-- 🌱 I’m currently learning **Advanced Power BI**
+- 🌱 I’m currently learning **Advanced Data Science Models**
 
 - 📫 How to reach me **omarkorim3210@gmail.com**
 
